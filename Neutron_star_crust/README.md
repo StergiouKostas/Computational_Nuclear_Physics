@@ -7,6 +7,13 @@
 
 ---
 
+This work is based on the article:  
+**"Impact of the symmetry energy on the outer crust of nonaccreting neutron stars"**,  
+*X. Roca-Maza and J. Piekarewicz*,  
+**Physical Review C 78, 025807 (2008)**  
+[https://doi.org/10.1103/PhysRevC.78.025807](https://doi.org/10.1103/PhysRevC.78.025807)
+
+
 ## 📋 Table of Contents
 
 - [Introduction](#introduction)
